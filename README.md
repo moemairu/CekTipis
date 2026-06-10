@@ -96,7 +96,7 @@ CekTipis/
 
 1. **Clone atau download project**
    ```bash
-   git clone https://github.com/username/CekTipis.git
+   git clone https://github.com/moemairu/CekTipis.git
    cd CekTipis
    ```
 
